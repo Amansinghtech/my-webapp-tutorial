@@ -1,7 +1,7 @@
 import React from 'react'
 
 function index() {
-	return <div>Deepak Home Page</div>
+	return <div>index</div>
 }
 
 export default index
